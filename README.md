@@ -1,1 +1,1 @@
-Codigo Python para geração de um Dashboard para o fechamento de containers.
+Codigo Python para geração de um Dashboard em HTML, para o fechamento de containers.
